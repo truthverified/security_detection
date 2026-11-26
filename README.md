@@ -4,7 +4,7 @@ Case 2 (small PCAP, about 50 packets, multiple protocols) with Isolation Forest.
 
 ## Group
 - Kostis
-- Quinton
+- Quinten
 - Danish
 - Aryan
 - Vasilis
